@@ -1,4 +1,4 @@
-# Codes for Image Enhancement with Visual Adaptation
+# MATLAB Codes for Image Enhancement
 
 [1] BioEnh_TIP2020.zip            
 KF Yang, XS Zhang, YJ Li*. A Biological Vision Inspired Framework for Image Enhancement in Poor Visibility Conditions. IEEE TIP, 2020.
